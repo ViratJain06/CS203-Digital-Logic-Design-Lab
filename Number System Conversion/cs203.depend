@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1661107254 source:d:\coding\cs203\main.cpp
+	<iostream>
+	<bitset>
+	<string.h>
+	<cstdlib>
+
